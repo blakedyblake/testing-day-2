@@ -1,0 +1,10 @@
+General
+Making sure that the UI for entering in the information is usable
+Making sure that accurate error messages show up for the user
+
+Specific
+DOES MKE accept what is required of it(2-4 characters(letters and special no numbers))
+Does RACE accept what is required of it(single letter no special nor numbers, nor strings)
+
+Run through:
+Go through the site enter informaiton like a user and think what would a user think here
